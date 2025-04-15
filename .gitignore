@@ -1,0 +1,13 @@
+.venv/
+.idea/
+
+__pycache__/
+*.spec
+*.egg-info
+*.log
+*.pot
+*.mo
+dist/
+build/
+tasks.json
+tasks.csv
